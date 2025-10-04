@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/libs/glad",
+                "${workspaceFolder}/libs/glfw"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/x86_64-w64-mingw32-gcc",  // ✅ Ruta correcta
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "gcc-x64"               // ✅ Modo correcto
+        }
+    ],
+    "version": 4
+}
