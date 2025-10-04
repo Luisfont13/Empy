@@ -6,7 +6,7 @@
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/libs/glad",
                 "${workspaceFolder}/libs/glfw",
-                "${workspaceFolder}/libs/std"
+                "${workspaceFolder}/libs/stb"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/x86_64-w64-mingw32-gcc",  // ✅ Ruta correcta
